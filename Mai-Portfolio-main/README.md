@@ -1,4 +1,4 @@
-Website Address: [Mai's Protfolio](https://maielhadad99.github.io/Mai-Portfolio/)
+Website Address: [Mai's Protfolio](https://alesandrsokirka.github.io/portfolio/tree/main/Mai-Portfolio-main/)
 
 
 This is my Data Science Portfolio
