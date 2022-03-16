@@ -168,13 +168,13 @@ Here are some of my best Data Science Projects. I have explored various machine-
 ***
 
 
-**Click here to see project** [Identifying fraudulent transactions](https://github.com/alesandrsokirka/tree_ensemble_fraud_detection/blob/main/fraud_detection.ipynb)
+**Click here to see project** [Identifying fraudulent clicks](https://github.com/alesandrsokirka/tree_ensemble_fraud_detection/blob/main/fraud_detection.ipynb)
 
 <img src="images/fraud.jpg?raw=true"/>
 
 **Skills used:** Python, Pandas, Matplotlib, Random Forest, GradientBoost Classifier, Bagging Classifier Algorithm
 
-**Project Objective:**  In this project we are going to solve chinese bank problem of identifying fraudulent transactions in their customer's account.
+**Project Objective:**  In this problem, we will use the features associated with clicks, such as IP address, operating system, device type, time of click etc. to predict the probability of a click being fraud.
 
 **Quantifiable result:** We could Clissify, which helps to resist being frauded . Result [**92%** accuracy](https://github.com/alesandrsokirka/tree_ensemble_fraud_detection/blob/main/fraud_detection.ipynb) 
 
